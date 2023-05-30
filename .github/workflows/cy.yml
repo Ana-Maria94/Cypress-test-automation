@@ -17,4 +17,3 @@ jobs:
         with:
           build: npm install
           start: npx cypress run
-          cache-dependency-path: subdir/package-lock.json
